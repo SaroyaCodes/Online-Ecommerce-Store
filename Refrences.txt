@@ -1,0 +1,33 @@
+¡°Gliffy¡±, UML diagrams, http://www.gliffy.com/index-b.php
+¡°How do servlets work? Instantiation, session variables and multithreading¡±, http://stackoverflow.com/
+questions/3106452/how-do-servlets-work-instantiation-session-variables-and-multithreading
+JSTL, http://stackoverflow.com/tags/jstl/info
+Servlet, http://stackoverflow.com/tags/servlets/info
+Java Servlet, http://en.wikipedia.org/wiki/Java_Servlet
+JavaServer Pages, http://en.wikipedia.org/wiki/JavaServer_Pages
+UML diagram tutorial, http://www.visual-paradigm.com/product/vpuml/tutorials/packagediagram.jsp
+http://stackoverflow.com/questions/11681499/jstl-code-convert-to-java-class-or-how-can-i-implement-same-in-separate-class
+http://netbeans.dzone.com/connection-pooling-tomcat-nb
+http://www.mkyong.com/tutorials/jax-ws-tutorials/
+Lectures in CSI5380:
+http://www.site.uottawa.ca/~lpeyton/csi5380.html
+Template reference: 
+https://drive.google.com/previewtemplate?id=1pgMutdDasJb6eN6yK6M95JM8gQ16IKacxxhPXgeL9WY&mode=public&urp=https://www.google.ca/&pli=1#
+http://www.enough.pro/15-best-ecommerce-templates-for-website-absolutely-free/
+http://ottawastart.com/radio.php
+http://tunein.com/radio/Ottawa-r100596/
+http://www.w3schools.com/html/html_colorvalues.asp
+http://www.tutorialspoint.com/jsp/jsp_form_processing.htm
+http://www.w3schools.com/js/js_howto.asp
+http://www.w3schools.com/html/html_scripts.asp
+http://docs.oracle.com/cd/E13222_01/wls/docs81/jsp/reference.html
+http://zetcode.com/tutorials/jeetutorials/cart/
+http://stackoverflow.com/questions/8345625/passing-a-list-from-servlet-to-jsp-giving-null-pointer-exception
+http://www.coderanch.com/t/289562/JSP/java/lists-jsp
+http://www.w3schools.com/jsref/event_onclick.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Getting_Started
+http://forums.mozillazine.org/viewtopic.php?p=1602367
+https://www.gliffy.com/go/html5/5000743?uid=2670751&token=385cee35c6034e9a7b0153042eb20f&toke=&app=1b5094b0-6042-11e2-bcfd-0800200c9a66&dev=false
+http://api.jquery.com/event.preventDefault/
+http://www.javascriptkit.com/javatutors/external.shtml
+
